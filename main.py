@@ -1,3 +1,3 @@
-from funcs import counts
+from funcs import minus
 
-print(counts(5, 7))
+print(minus(5, 7))
